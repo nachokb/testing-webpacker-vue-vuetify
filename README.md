@@ -1,5 +1,15 @@
 # README
 
+Run:
+
+```
+RAILS_SERVE_STATIC_FILES=true RAILS_ENV=production ber s
+```
+
+```
+RAILS_ENV=production NODE_ENV=production bin/webpack --watch --progress --color
+```
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
