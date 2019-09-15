@@ -1,6 +1,6 @@
 import Vue from 'vue';
 
-// base components
+// app's components
 import App from '../vue/app.vue';
 Vue.component('app', App);
 
