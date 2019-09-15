@@ -15,6 +15,4 @@
 // const images = require.context('../images', true)
 // const imagePath = (name) => images(name, true)
 
-console.log('Hello World from Webpacker1!')
 import '../js/vue_init'
-console.log('Hello World from Webpacker2!')
